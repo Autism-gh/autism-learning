@@ -7,7 +7,7 @@
 
 <script>
   import HelloWorld from './components/HelloWorld.vue'
-  // 天要塌了
+  // 天要塌了hahahahahahaha
   export default {
     name: 'App',
     components: {
